@@ -1,3 +1,35 @@
-theme: jekyll-theme-minimal
-title: Frank's homepage
-description: Bookmark this to keep an eye on my project updates!
+# See https://github.com/jekyll/minima/tree/2.5-stable for more information
+
+title: Frank's Blog
+email: fpejril@fplabs.top
+description: >- 
+  A Home for all of my project updates!
+baseurl: "/" 
+url: "https://blog.fplabs.top" 
+github_username:  fpejril
+linkedin_username: fpejril
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,2 +1,2 @@
-# fpejril.github.io
-Frank's GitHub Pages Site
+# Frank Pejril
+My GitHub Pages Blog!
