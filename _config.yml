@@ -4,8 +4,8 @@ title: Frank's Blog
 email: fpejril@fplabs.top
 description: >- 
   A Home for all of my project updates!
-baseurl: "/" 
-url: "https://blog.fplabs.top" 
+# baseurl: "/" 
+# url: "https://blog.fplabs.top" 
 github_username:  fpejril
 linkedin_username: fpejril
 
