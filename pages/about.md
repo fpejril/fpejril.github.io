@@ -4,10 +4,12 @@ title: About Me
 permalink: /about/
 ---
 My name is Frank Pejril, and throughout the years I have worn many hats. While I am -- and continue to be -- a student of the world (always stay curious!), I've taken on many responsibilities and areas of specialization over the years. My major roles have been as:
+
 - A High School Maths Teacher
 - A Cloud Operations/DevOps Engineer
 - A Revenue Operations Data Analyst
 - A Salesforce Administrator
+
 If you'd like to learn a little more about me, read on!
 
 ## A Passion for Technology
