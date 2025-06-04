@@ -1,7 +1,7 @@
 ---
-type: page
-title: About Me
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 1
 ---
 My name is Frank Pejril, and throughout the years I have worn many hats. While I am -- and continue to be -- a student of the world (always stay curious!), I've taken on many responsibilities and areas of specialization over the years. My major roles have been as:
 
