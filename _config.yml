@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Frank's Site"
+title                    : "Frank Pejril"
 title_separator          : "-"
-subtitle                 : "My personal blog and portfolio"
+subtitle                 : "Operations & DevOps Engineer | Tinkerer | Tech Enthusiast"
 name                     : "Frank Pejril"
 description              : "Frank's personal blog and portfolio, showcasing projects, thoughts, and experiences."
-url                      : "https://blog.fplabs.top"
+url                      : "frankpejril.com"
 baseurl                  : "/"
 repository               : "fpejril/fpejril.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -322,21 +322,18 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: post
+      type: posts
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   - scope:
       path: ""
-      type: page
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
