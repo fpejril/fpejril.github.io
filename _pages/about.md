@@ -22,10 +22,10 @@ I started my undergrad education at Purdue University right out of high school i
 
 The coursework had a very strong focus on rigorous logical proof in challenging areas, and I found a love for the process of translating axiomatic concepts through lower-level abstractions (theorems) to become higher-level abstractions. I think this process of using intuitive understandings through a ladder of abstractions to become less-intuitive but more impactful truths of the world lent itself well to my soon-to-be blooming career in technology.
 
-As part of the Mathematics coursework at Purdue, I also got a firm background in programming, even if it wasn't directly applicable to my career goal at the time. I learned Object Oriented through Python and Java, and built a few projects as part of the coursework, but I didn't make much else of this until several years later, after I had graduated and entered the workforce in earnest.
+As part of the Mathematics coursework at Purdue, I also got a firm background in programming, even if it wasn't directly applicable to my career goal at the time. I learned object-oriented programming through Python and Java, and built a few projects as part of the coursework, but I didn't make much else of this until several years later, after I had graduated and entered the workforce in earnest.
 
 ## Teaching Maths
-I graduated in 2017, hitting that sweet-spot 4-year college program, and immediately landed my first teaching job 
+I graduated in 2017, hitting that sweet-spot 4-year college program, and soon after landed my first teaching job for the 2017-2018 school year.
 
 ## Entering the Tech Industry
 While I was still in university I was working part-time jobs to make sure I stayed out of debt from student loans. I can happily say that debt was avoided entirely, thanks to the financial aid I received from academic scholarships, my frugal choice of dormatory and meal plan, my part-time work, and the savings my family had set aside when I was born which grew into a proper college fund. I will certainly be doing the same for my own children when the time comes!
