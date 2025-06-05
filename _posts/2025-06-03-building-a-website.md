@@ -1,7 +1,7 @@
 ---
 type: posts
-title:  "I'm Building a Website!"
-date:   2025-06-03 16:27:58 +0000
+title: "I'm Building a Website!"
+date: 2025-06-03 11:27:58 -0500
 categories: updates
 tags: writing
 ---
