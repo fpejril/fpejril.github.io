@@ -5,7 +5,7 @@ order: 1
 ---
 ## 👋 Hi, I’m Frank
 
-I’m a **Cloud Operations & DevOps Engineer** with a passion for automation, observability, and infrastructure that scales. I’ve spent most of my career optimizing CI/CD pipelines, hardening deployments, and making systems more reliable — both in the cloud and in my homelab.
+I’m a **Cloud Operations & DevOps Engineer** with a passion for automation, observability, and infrastructure that scales. I’ve spent most of my career optimizing CI/CD pipelines, hardening deployments, and making systems more reliable — both in the cloud and in my homelab. If you're curious about how I got started, you can [read more about my background here]({{ "/posts/getting-my-start/" | relative_url }}).
 
 ---
 
