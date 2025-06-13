@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 1
 description: Learn more about Frank Pejril — a DevOps and Cloud Infrastructure Engineer with nearly a decade of experience building scalable, secure, and high-performing systems.
 ---
-# About Me
-
 I'm **Frank Pejril**, a Cloud and DevOps Engineer with nearly a decade of experience helping organizations modernize infrastructure, improve deployment pipelines, and secure mission-critical environments.
 
 I specialize in building and maintaining cloud-native systems. My background includes work with **CI/CD pipelines**, **Container Orchestration**, **Infrastructure as Code**, and **Observability Tooling**. I also have a strong foundation in systems automation and root-cause analysis, along with a practical understanding of modern security principles.
